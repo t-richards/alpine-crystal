@@ -1,0 +1,13 @@
+name: smalltest
+version: 0.1.0
+
+authors:
+  - Tom Richards <>
+
+targets:
+  smalltest:
+    main: src/smalltest.cr
+
+crystal: 0.24.1
+
+license: MIT
